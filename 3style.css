@@ -1,0 +1,17 @@
+style.css
+/* External style sheet */
+body
+{
+  font-family: Arial, sans-serif;
+  background-color: lightyellow;
+}
+
+#registrationBox
+{
+  width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: lightblue;
+  border: 1px solid red;
+  border-radius: 8px;
+}
