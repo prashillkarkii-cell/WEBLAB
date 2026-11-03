@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<students>
+    <student>
+        <usn>1TE24CS021</usn>
+        <name>RAM SHARMA</name>
+        <college>BMS Engineering College</college>
+        <programme>Computer Science</programme>
+        <year>2024</year>
+        <email>ram@bmsce.in</email>
+    </student>
+
+    <student>
+        <usn>1BY24CS050</usn>
+        <name>HARI PATEL</name>
+        <college>BMS Engineering College</college>
+        <programme>Information Science</programme>
+        <year>2024</year>
+        <email>hari@bmsce.in</email>
+    </student>
+
+    <student>
+        <usn>1TDCS003</usn>
+        <name>Rahul Kumar</name>
+        <college>BMS Engineering College</college>
+        <programme>Electronics Engineering</programme>
+        <year>2024</year>
+        <email>rahul@bmsce.in</email>
+    </student>
+</students>
