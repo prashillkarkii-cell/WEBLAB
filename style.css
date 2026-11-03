@@ -1,0 +1,30 @@
+students {
+    display: block;
+    font-family: Arial;
+    background-color: lightblue;
+    padding: 21px;
+}
+
+student {
+    display: block;
+    background-color: ghostwhite;
+    border: 2px solid blue;
+    margin: 17px;
+    padding: 17px;
+}
+
+usn, name, college, programme, year, email {
+    display: block;
+    padding: 7px;
+    color: darkblue;
+}
+
+name {
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+
+college {
+    font-weight: bold;
+}
